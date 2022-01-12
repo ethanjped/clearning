@@ -1,2 +1,2 @@
 # clearning
-Repository to learn and test code in C
+Repository to host notes and exercises for CS4400 and learning C coding language.
